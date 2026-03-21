@@ -18,7 +18,6 @@
 ### 👨‍💻 Programming Languages
 
 * Python 🐍
-* Java ☕
 
 ### 🌐 Web Development
 
