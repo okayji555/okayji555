@@ -43,7 +43,7 @@
 
 ---
 
-⭐ *Feel free to explore my repositories and connect with me!*
-
 ## 📊 GitHub Stats
 ![Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=okayji555&show_icons=true&theme=tokyonight)
+
+⭐ *Feel free to explore my repositories and connect with me!*
