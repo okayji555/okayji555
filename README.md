@@ -33,13 +33,13 @@
 
 ## 🔥 Contribution Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=okayji555&theme=dark)
 
 ---
 
 ## 📊 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=okayji555&theme=github-dark)
 
 ---
 
