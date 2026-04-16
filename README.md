@@ -37,6 +37,12 @@
 
 ---
 
+## 📊 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark)
+
+---
+
 ## 🤖 Interests
 
 * Artificial Intelligence (AI)
