@@ -31,6 +31,12 @@
 
 ---
 
+## 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=dark)
+
+---
+
 ## 🤖 Interests
 
 * Artificial Intelligence (AI)
