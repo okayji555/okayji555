@@ -27,7 +27,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=okayji555&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=okayji555&theme=radical&show_icons=true&count_private=true&include_all_commits=true)
 
 ---
 
