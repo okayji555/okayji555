@@ -27,13 +27,17 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=okayji555&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=okayji555&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+</p>
 
 ---
 
 ## 🔥 Contribution Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=okayji555&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=okayji555&theme=tokyonight" />
+</p>
 
 ---
 
