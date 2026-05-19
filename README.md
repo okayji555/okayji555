@@ -27,7 +27,7 @@
 ---
 
 ## 😊Personal Site:
-src = "https://omkar-personal-site.netlify.app/"
+https://omkar-personal-site.netlify.app
 
 ## 📊 GitHub Stats
 
